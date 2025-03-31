@@ -59,5 +59,5 @@ plt.title ('Electric Vehicle Count by Brand in Washington State')
 plt.xticks (rotation = 30)
 plt.tight_layout()
 
-plt.savefig("EV Population.png", dpi=300)
+plt.savefig("EV_Population.png", dpi=300)
 plt.show()
