@@ -12,7 +12,7 @@ This plot shows the historical growth of the US GDP from 1960 to 2023 in current
 
 ## Electric Vehicle Population in Washington
 
-![EV Plot](ev_population_plot.png)
+![EV Plot](EV Population.png)
 
 This plot visualizes electric vehicle adoption trends based on state registration data. The dataset includes EV make, model, and registration locations.
 
